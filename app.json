@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Noble Quran",
+    "slug": "noble_quran",
+    "version": "2.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/image/brand.png",
+    "userInterfaceStyle": "light",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "eas": {
+        "projectId": "13d11259-5a4f-410d-ad6f-3c6c4e783f5e"
+      }
+    },
+    "android": {
+      "package": ""
+    }
+  }
+}
